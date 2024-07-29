@@ -1,5 +1,5 @@
 # H2-Computing
-Consolidated Computing Notes for <pre> H2 Computing Syllabus 9569 </pre>
+Consolidated Computing Notes for ` H2 Computing Syllabus 9569 `
 
 ### Year 1
 
