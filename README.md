@@ -1,7 +1,18 @@
 # H2-Computing
 Consolidated Computing Notes for ` H2 Computing Syllabus 9569 `
 
-### Year 1
+`P` - Focused on practical <br>
+`T` - Focused on theory
+
+### My background: 
+
+- Computing ( Secondary School ) - A1
+- Computing ( Junior College ) - A
+
+These consolidated notes by myself are for teaching purposes. Feel free to create an issue request if there are any issues with the notes or anything you would like me to change!
+
+
+## `Year 1`
 
 1. Data types and Basic Operations (P)
 2. Boolean (P)
@@ -25,7 +36,7 @@ Consolidated Computing Notes for ` H2 Computing Syllabus 9569 `
 20. Sorting (P)
 21. Searching (P)
 
-### Year 2
+## `Year 2`
 
 22. Relational database (P & T)
 23. Non relational database (P & T)
