@@ -1,5 +1,5 @@
 # H2-Computing
-Consolidated Computing Notes for ` H2 Computing Syllabus 9569 `
+Consolidated Computing Notes for ` H2 Computing Syllabus 9569 ` ( these notes take inspiration from ACJC, NJC and HCI notes )
 
 `P` - Focused on practical <br>
 `T` - Focused on theory
