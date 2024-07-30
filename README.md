@@ -15,7 +15,7 @@ These consolidated notes by myself are for teaching purposes. Feel free to creat
 ## `Year 1`
 
 1. Data types and Basic Operations (P)
-2. Boolean (P)
+2. Booleans and Conditionals (P)
 3. String (P)
 4. Flowchart and decision table / Pseudo code 1 (T)
 5. Lists & Tuples (P)
