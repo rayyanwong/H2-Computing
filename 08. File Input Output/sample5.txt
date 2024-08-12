@@ -1,0 +1,2 @@
+eagle,fox,giraffe,horse
+iguana,jaguar,kangaroo,llama
